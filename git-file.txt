@@ -3,3 +3,4 @@ task 1 git
 local rep
 diff 
 from local to glopal rep
+change from vs commit btn
